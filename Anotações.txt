@@ -1,0 +1,20 @@
+Padrão onde um objeto realiza a comunicação com outros.
+
+Encapsulamento de comunicação entre objetos.
+
+Centralização da comunicação em apenas um objeto.4b   
+
+Por exemplo, om padrão MVC utiliza o mediator como comunicação entre as camadas.
+
+Simplificar a comunicação muitos-para-muitos para comunicações um-para-muitos
+
+Em .Net é utilizada a biblioteca mediatR para usar este padrão (biblioteca muito utilizada com CQRS).
+
+Vantagens
+. Desacoplamento entre os objetos
+. Fluxo de comunicação centralizado
+. Mudanças podem ser aplicadas facilmente pois, os objetos são independentes.
+
+Desvantagens
+. Código mais complexo
+. Para códigos muitos complexos pode acabar se tornando umm gargalo para a aplicação.

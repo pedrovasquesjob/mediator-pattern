@@ -1,0 +1,4 @@
+https://refactoring.guru/pt-br/design-patterns/mediator/csharp/example
+https://dotnettutorials.net/lesson/mediator-design-pattern/
+https://refactoring.guru/pt-br/design-patterns/mediator
+https://medium.com/jundevelopers/mediator-pattern-com-mediatr-asp-net-core-2-2-6d8d2e3dc3c5
